@@ -1,0 +1,16 @@
+
+   "SHARE"
+    ROBOTO REGULAR 32PT
+    COLOUR:#ffffff
+
+   "ADD DESCRIPTION"
+    ROBOTO LIGHT 28PT 
+    COLOUR:#bebec3
+
+   "SHARE WITH"
+    ROBOTO LIGHT 36PT
+    COLOUR:#656d78
+
+   "PUBLISH"
+    ROBOTO MEDIUM  42PT
+    COLOUR:#ffffff

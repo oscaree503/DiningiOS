@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TagTableViewCell awakeFromNib]:TagTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DiscoverViewController tableView:numberOfRowsInSection:]:DiscoverViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DiscoverViewController viewDidLoad]:DiscoverViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

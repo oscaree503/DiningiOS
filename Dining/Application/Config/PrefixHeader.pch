@@ -1,0 +1,49 @@
+//
+//  PrefixHeader.pch
+//  Marqoo
+//
+//  Created by admin on 11/30/15.
+//  Copyright (c) 2015 admin. All rights reserved.
+//
+
+#ifdef __OBJC__
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+// Library
+#import <AVFoundation/AVFoundation.h>
+#import <Foundation/Foundation.h>
+#import "Config.h"
+#import "ActivityIndicator.h"
+#import "SessionManager.h"
+#import "JSON.h"
+#import "UIImageView+AFNetworking.h"
+#import "UIButton+AFNetworking.h"
+#import "DoAlertView.h"
+#import "UIViewController+KNSemiModal.h"
+#import "UIImageView+AFNetworking.h"
+
+///#import <Haneke/Haneke.h>
+#import "AppController.h"
+#import "CommonUtils.h"
+#import "BaseViewController.h"
+
+#import <Parse/Parse.h>
+
+#define appController [AppController sharedInstance]
+#define commonUtils [CommonUtils shared]
+// Controllers & Models
+
+
+// Pages
+//#import "LoginViewController.h"
+//#import "MainViewController.h"
+//#import "PostsViewController.h"
+//#import "LikesViewController.h"
+//#import "CommentsViewController.h"
+//#import "MyProfileViewController.h"
+//#import "FollowViewController.h"
+//#import "UploadViewController.h"
+//#import "ActivityIndicator.h"
+
+#endif
